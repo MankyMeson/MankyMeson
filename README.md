@@ -1,6 +1,6 @@
 - Whassup everyone, I'm Clio and this is my personal GitHub account.
-- I'm mainly interested in computational physics, and I've studied quantum Monte Carlo methods for about a year now.  
-  I'm also interested in but not very experienced with writing compilers.
+- I'm mainly interested in computational physics, and I'm currently studying quantum Monte Carlo methods.
+- Other interests include compiler development (I'm quite new to this one), theoretical condensed matter physics, and dungeons and dragons.
 - Don't expect high quality code to be uploaded here
 
 <!---
